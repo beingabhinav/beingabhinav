@@ -1,4 +1,4 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Abhinav%20Singh%20Banner.jpg" alt="Abhinav Singh Banner"></p>
+  <p><img src=""https://raw.githubusercontent.com/beingabhinav/beingabhinav/main/assets/profile.jpg" width="300" style="border-radius:20px;"alt="Abhinav Singh Banner"></p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Abhinav</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Abhinav -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
