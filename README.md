@@ -1,9 +1,6 @@
  <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/beingabhinav/beingabhinav/main/assets/profile.jpg"
-    width="300"
-    style="border-radius:20px;"
-    alt="Abhinav Singh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abhinav+Singh+%F0%9F%91%8B;Data+Science+%7C+AI+%7C+Machine+Learning;Building+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 </p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Abhinav</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Abhinav -->
