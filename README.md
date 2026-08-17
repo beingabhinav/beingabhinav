@@ -44,13 +44,23 @@
 <p align="center">
 <a href="https://www.abhinavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
 <a href="https://linkedin.com/in/Abhinavsingh"><img src="https://img.shields.io/badge/-Abhinav%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
-<a href="mailto:beingabhinav007@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
+<a href="mailto:beingabhinav007@gmail.com">
+  <img src="https://img.shields.io/badge/-beingabhinav007%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/beingabhinav">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/abhinavsingh">
+  <img src="https://img.shields.io/badge/-Abhinav%20Singh-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://abhinavsingh2.journoportfolio.com/">
+  <img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white" alt="Portfolio">
+</a>
 </p>
 <hr>
 <p>Credits: <a href="https://github.combeingabhinav">Abhinav Singh</a></p>
 <p>Last Edited on: 11/07/2026</p> 
- bhai isko mere profile ke according edit kardo
+ 
